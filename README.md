@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lo-decibel
-- 👀 I’m interested in self-hosting, home automation, and creating useful things with Raspberry Pis
-- 🌱 I’m currently learning Python, Docker, and Bash scripting
+- 👀 I’m interested in self-hosting, home automation, and making useful things with SBCs and microcontrollers.
+- 🌱 I’m currently learning Python, Docker, Bash scripting, and Git of course!
 - 💞️ I’m looking to collaborate on useful projects where I can improve my coding.
 - 📫 Say hello!
